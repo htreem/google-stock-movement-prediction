@@ -49,7 +49,7 @@ Launch Jupyter Notebook:
 jupyter notebook
 ```
 
-Open `google_stock_prediction.ipynb` and run the notebook from top to bottom.
+Open `google_stock_movement_prediction.ipynb` and run the notebook from top to bottom.
 
 ## Disclaimer
 
