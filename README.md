@@ -12,7 +12,7 @@ A three-stage feature-selection process combining correlation filtering, Recursi
 
 The tuned model achieved:
 
-* **Test ROC AUC:** 54.83%
+* **Test ROC AUC:** 0.5483
 * **Test Accuracy:** 54.81%
 
 The results demonstrate a modest predictive signal while highlighting the difficulty of short-term stock-direction forecasting.
