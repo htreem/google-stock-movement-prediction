@@ -8,3 +8,24 @@ Results: The tuned model achieved a test ROC AUC of 0.5483 and accuracy of 54.81
 Tech: Python, pandas, scikit-learn, XGBoost, yfinance, Matplotlib.
 
 See the notebook for the full feature-selection process, model development, visualisations, and evaluation.
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/YOUR-USERNAME/google-stock-movement-prediction.git
+cd google-stock-movement-prediction
+
+Install the required packages:
+
+pip install -r requirements.txt
+
+Then launch Jupyter:
+
+jupyter notebook
+
+Open:
+
+google_stock_prediction.ipynb
+
+and run the notebook from top to bottom.
