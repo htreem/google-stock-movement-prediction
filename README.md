@@ -12,7 +12,7 @@ A three-stage feature-selection process combining correlation filtering, Recursi
 
 The tuned model achieved:
 
-* **Test ROC AUC:** 0.5483
+* **Test ROC AUC:** 54.83%
 * **Test Accuracy:** 54.81%
 
 The results demonstrate a modest predictive signal while highlighting the difficulty of short-term stock-direction forecasting.
@@ -33,7 +33,7 @@ See the notebook for the full feature-selection process, model development, visu
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/google-stock-movement-prediction.git
+git clone https://github.com/htreem/google-stock-movement-prediction.git
 cd google-stock-movement-prediction
 ```
 
